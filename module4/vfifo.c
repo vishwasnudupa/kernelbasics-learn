@@ -15,7 +15,7 @@
 
 /* Metadata */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Antigravity Driver Course");
+MODULE_AUTHOR("anonymous");
 MODULE_DESCRIPTION("Module 4: Virtual FIFO with IOCTL & Deferred Work");
 MODULE_VERSION("0.4");
 

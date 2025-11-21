@@ -12,7 +12,7 @@
 
 /* Metadata */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Antigravity Driver Course");
+MODULE_AUTHOR("anonymous");
 MODULE_DESCRIPTION("Module 3: Virtual FIFO with Concurrency");
 MODULE_VERSION("0.3");
 

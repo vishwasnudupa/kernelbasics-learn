@@ -4,7 +4,7 @@
 
 /* Metadata */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Antigravity Driver Course");
+MODULE_AUTHOR("anonymous");
 MODULE_DESCRIPTION("Module 1: Virtual FIFO Driver Skeleton");
 MODULE_VERSION("0.1");
 

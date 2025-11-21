@@ -16,7 +16,7 @@
 
 /* Metadata */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Antigravity Driver Course");
+MODULE_AUTHOR("anonymous");
 MODULE_DESCRIPTION("Module 5: Virtual FIFO with mmap & sysfs");
 MODULE_VERSION("0.5");
 
